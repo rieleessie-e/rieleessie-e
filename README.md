@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on open-source web development projects.
 - 🤔 I’m looking for help with mastering CSS Flexbox & Grid.
 - 💬 Ask me about HTML, CSS, and basic JavaScript.
-- 📫 How to reach me:rieleesie5@gmail.com
+- 📫 How to reach me:rieleesi5@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love solving logic puzzles in my free time!
 
