@@ -17,6 +17,11 @@
 ```text
 user.name=rieleessie-e
 user.email=rieleessi5@gmail.com
+Live page:rieleessie-e.github.io
+Markdown Practice.md
+Team Repository:iyf-s12-week-00-practice.md
+My opened PR:Improve project README PR
+My issues: issue#1
 
 ### 🛠️ Languages & Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
