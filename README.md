@@ -11,6 +11,12 @@
 - ⚡ Fun fact: I love solving logic puzzles in my free time!
 
 ---
+---
+
+### ⚙️ Setup & Configuration
+```text
+user.name=rieleessie-e
+user.email=rieleessi5@gmail.com
 
 ### 🛠️ Languages & Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
